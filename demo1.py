@@ -3,5 +3,8 @@ def demo1(param):
     return f'Hello {param}'
 
 
+def demo2(name):
+    return 'afternoon {name}'
+
 if __name__ == '__main__':
     demo1('richard')
